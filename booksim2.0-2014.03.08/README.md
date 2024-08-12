@@ -90,7 +90,7 @@ When running the simulator, provide the path to your trace file as a command-lin
    sim_type = file_inject
    ```
 
-2. Create a trace file (`tracefile.csv`):
+2. Create a trace file (`tracefile.txt`):
    ```sh
    0,1,2,64
    5,3,4,128
