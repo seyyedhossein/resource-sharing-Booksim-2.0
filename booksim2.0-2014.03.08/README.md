@@ -63,7 +63,7 @@ time,src,dst,byte
 - `dst`: The destination node of the packet.
 - `byte`: The size of the packet in bytes.
 
-Example trace file (`tracefile.csv`):
+Example trace file (`tracefile.txt`):
 
 ```
 0,1,2,64
