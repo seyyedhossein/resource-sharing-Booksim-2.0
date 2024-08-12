@@ -31,7 +31,7 @@ To install and build BookSim, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/sseyyeda/Booksim2_TraceFileInjection.git
-   cd Booksim2_TraceFileInjection
+   cd Booksim2_TraceFileInjection/booksim2.0-2014.03.08
    ```
 
 2. Build the simulator:
