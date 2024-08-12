@@ -52,7 +52,7 @@ To use trace file injection, modify your configuration file as follows:
 
 ### Trace File Format
 
-The trace file should be a CSV file with the following structure:
+The trace file should be a texr file with the following structure:
 
 ```
 time,src,dst,byte
